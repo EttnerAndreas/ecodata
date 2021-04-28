@@ -28,6 +28,10 @@ library(EcoData)
 vignette("EcoData", package="EcoData")
 ```
 
+Below the status of the automatic Github Action tests on the master branch
+[![R-CMD-check](https://github.com/TheoreticalEcology/ecodata/workflows/R-CMD-check/badge.svg)](https://github.com/TheoreticalEcology/ecodata/actions)
+
+
 If you want to cite the package, use
 
 ```{r}
